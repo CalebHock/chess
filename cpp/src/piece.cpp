@@ -1,10 +1,10 @@
 #include "piece.h"
 #include "board.h"
 
-#include "bishop.h"
-#include "knight.h"
-#include "queen.h"
-#include "rook.h"
+#include "piece/bishop.h"
+#include "piece/knight.h"
+#include "piece/queen.h"
+#include "piece/rook.h"
 
 std::vector<Move> Piece::get_moves(const bool in_check_moves) const {
   // All moves of piece, whether valid or not.

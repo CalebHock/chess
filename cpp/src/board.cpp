@@ -1,11 +1,11 @@
 #include "board.h"
 
-#include "bishop.h"
-#include "king.h"
-#include "knight.h"
-#include "pawn.h"
-#include "queen.h"
-#include "rook.h"
+#include "piece/bishop.h"
+#include "piece/king.h"
+#include "piece/knight.h"
+#include "piece/pawn.h"
+#include "piece/queen.h"
+#include "piece/rook.h"
 
 #include "util.h"
 #include <bits/stdc++.h>

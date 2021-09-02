@@ -1,7 +1,7 @@
 #ifndef PAWN_H
 #define PAWN_H
 
-#include "piece.h"
+#include "../piece.h"
 
 /**
  * Pawn piece class. Inherits utility from piece parent class.

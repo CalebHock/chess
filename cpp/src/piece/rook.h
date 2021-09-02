@@ -1,7 +1,7 @@
 #ifndef ROOK_H
 #define ROOK_H
 
-#include "piece.h"
+#include "../piece.h"
 
 /**
  * Rook piece class. Inherits utility from piece parent class.

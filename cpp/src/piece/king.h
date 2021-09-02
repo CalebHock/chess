@@ -1,7 +1,7 @@
 #ifndef KING_H
 #define KING_H
 
-#include "piece.h"
+#include "../piece.h"
 
 /**
  * King piece class. Inherits utility from piece parent class.

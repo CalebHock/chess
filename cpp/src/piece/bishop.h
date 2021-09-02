@@ -1,7 +1,7 @@
 #ifndef BISHOP_H
 #define BISHOP_H
 
-#include "piece.h"
+#include "../piece.h"
 
 /**
  * Bishop piece class. Inherits utility from piece parent class.

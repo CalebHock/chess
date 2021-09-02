@@ -1,6 +1,6 @@
 #include "knight.h"
 
-#include "board.h"
+#include "../board.h"
 
 std::vector<Move> Knight::get_candidate_moves(const bool in_check_moves) const {
   std::vector<Move> candidate_moves;
